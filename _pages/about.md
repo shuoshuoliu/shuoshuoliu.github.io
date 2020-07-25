@@ -15,7 +15,7 @@ redirect_from:
 * H.B.Sc., Statistics and Economics, University of Toronto, 2014-2017
 
 # Research Interests
-I'm interested in developing cutting-edge statistical models and algorithms, and applying machine learning techniques in biomedical and image data. Research areas include but not limited to survival analysis, longitudinal data, machine learning, deep learning, multi-view learning, instrumental variable.
+I'm interested in developing cutting-edge statistical models and algorithms, and applying machine learning techniques in the biomedical and image data. Research areas include but not limited to survival analysis, longitudinal data, machine learning, deep learning, multi-view learning, instrumental variable.
 
 # Publications
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
