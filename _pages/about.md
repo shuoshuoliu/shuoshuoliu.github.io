@@ -10,8 +10,8 @@ redirect_from:
 
 
 # Education
-* PhD, Statistics, The Pennsylvania State University, 2019-
-* MMath, Statistics, University of Waterloo, 2017-2018
+* PhD, [Statistics](https://stat.psu.edu), The Pennsylvania State University, 2019-
+* MMath, [Statistics](https://uwaterloo.ca/statistics-and-actuarial-science/), University of Waterloo, 2017-2018
 * H.B.Sc., Statistics and Economics, University of Toronto, 2014-2017
 
 # Research Interests
