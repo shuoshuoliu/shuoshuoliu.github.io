@@ -1,7 +1,7 @@
 ---
 permalink: /
-#title: "Shuo Shuo Liu"
-#excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
