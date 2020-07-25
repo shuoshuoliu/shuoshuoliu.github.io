@@ -18,6 +18,5 @@ redirect_from:
 I'm interested in developing cutting-edge statistical models and algorithms, and applying machine learning techniques in the biomedical and image data. Research areas include but not limited to survival analysis, longitudinal data, machine learning, deep learning, multi-view learning, instrumental variable.
 
 # Publications
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
-<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
-<i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+* <b>Liu, S. S.</b>, Chen, B. E. (2020). <b>[Continuous threshold models with two-way interactions in survival analysis](https://onlinelibrary.wiley.com/journal/1708945x)</b> <br> 
+<i>Canadian Journal of Statistics</i>. 
