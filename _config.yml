@@ -83,11 +83,11 @@ author:
   name             : "Shuo Shuo Liu"
   avatar           : "profile.png"
   bio              : "PhD student in the Statistics Department at the Penn State University"
-  location         : "Location"
+  #location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "ShuoShuo.liu@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
