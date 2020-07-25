@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "ShuoShuo.liu@psu.edu"
+  email            : "shuoshuo.liu@psu.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shuoshuoliu"
+  github           : "http://github.com/shuoshuoliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shuoshuoliu/"
+  linkedin         : "http://www.linkedin.com/in/shuoshuoliu/"
   orcid            : "http://orcid.org/0000-0001-8396-4515"
   pinterest        :
   soundcloud       :
