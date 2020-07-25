@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Statistics] Department (https://science.psu.edu/stat) at the Penn State University.
+I am a PhD student in the [Statistics] Department (https://science.psu.edu/stat) at the Penn State University.
 
-A data-driven personal website
+Education
 ======
 
