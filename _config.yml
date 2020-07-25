@@ -77,7 +77,7 @@ analytics:
   google:
     tracking_id          :
 
-minimal_mistakes_skin: "default" "dark"
+#minimal_mistakes_skin: "default" "dark"
 
 
 # Site Author
