@@ -15,5 +15,4 @@ redirect_from:
 * H.B.Sc., Statistics and Economics, University of Toronto, 2014-2017
 
 # Research Interests
-* I am a PhD student in the  Department at the Penn State University.
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+I'm interested in developing cutting-edge statistical models and algorithms, and applying machine learning techniques in biomedical and image data. Research areas include but not limited to survival analysis, longitudinal data, machine learning, deep learning, multi-view learning, instrumental variable.
