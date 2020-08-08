@@ -18,4 +18,4 @@ redirect_from:
 I'm interested in developing cutting-edge statistical models and algorithms, and applying machine learning techniques in the biomedical and image data. My research areas include but not limited to survival analysis, longitudinal data, machine learning, deep learning, multi-view learning, instrumental variable.
 
 # Publications
-* <b>Liu, S. S.</b>, & Chen, B. E. (2020). <b>[Continuous threshold models with two-way interactions in survival analysis.](https://onlinelibrary.wiley.com/journal/1708945x)</b> <i>Canadian Journal of Statistics</i>. 
+* <b>Liu, S. S.</b>, & Chen, B. E. (2020). <b>[Continuous threshold models with two-way interactions in survival analysis.](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11561)</b> <i>Canadian Journal of Statistics</i>. 
