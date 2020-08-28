@@ -83,7 +83,7 @@ author:
   name             : "Shuo Shuo Liu"
   avatar           : "profile.png"
   bio              : "PhD student in the Statistics Department at the Penn State University"
-  location         : "Pennsylvania"
+  #location         : "Pennsylvania"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=W5gmCP0AAAAJ&hl=en&authuser=1"
