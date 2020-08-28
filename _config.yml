@@ -86,7 +86,7 @@ author:
   location         : "Pennsylvania"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=W5gmCP0AAAAJ&hl=en&authuser=1"
   email            : "shuoshuo.liu@psu.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
